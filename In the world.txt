@@ -1,9 +1,22 @@
 Resurrection list in computer
 
 A. tactile
-city; buldings
-sculpture; michael jackson, Queen, the beatles
-theater; MET
+a.1. Building
+apartment
+shopping mall
+
+a.2. sculpture
+michael jackson
+Queen
+the beatles
+
+a.3. theater
+MET
+
+a.4. Stadium
 
 B. intactile
 mindgames
+falimy
+working place
+
