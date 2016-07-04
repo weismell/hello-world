@@ -1,9 +1,25 @@
 Resurrection list in computer
 
 A. tactile
-city
-sculpture
-theater
+a.1. Building
+apartment
+shopping mall
+
+a.2. sculpture
+michael jackson
+Queen
+the beatles
+
+a.3. Museum
+comtemporary art
+musical
+opera
+concert
+
+a.4. Stadium
 
 B. intactile
 mindgames
+falimy
+working place
+
