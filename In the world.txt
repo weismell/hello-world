@@ -7,5 +7,9 @@ wind
 wave
 friendship
 
+family
+school
+mindgames
+
 and so on. 
 What about you?
